@@ -1,0 +1,16 @@
+# Ignore class files
+*.class
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore Eclipse files
+.project
+.classpath
+.settings/
+
+# Ignore VSCode settings
+.vscode/
+
+# Project exclude paths
+/out/
